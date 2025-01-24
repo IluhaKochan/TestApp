@@ -1,0 +1,11 @@
+D:\is-22\Новая папка\sex\sex\bin\Debug\sex.exe.config
+D:\is-22\Новая папка\sex\sex\bin\Debug\sex.exe
+D:\is-22\Новая папка\sex\sex\bin\Debug\sex.pdb
+D:\is-22\Новая папка\sex\sex\obj\Debug\sex.csproj.AssemblyReference.cache
+D:\is-22\Новая папка\sex\sex\obj\Debug\sex.csproj.SuggestedBindingRedirects.cache
+D:\is-22\Новая папка\sex\sex\obj\Debug\sex.Form1.resources
+D:\is-22\Новая папка\sex\sex\obj\Debug\sex.Properties.Resources.resources
+D:\is-22\Новая папка\sex\sex\obj\Debug\sex.csproj.GenerateResource.cache
+D:\is-22\Новая папка\sex\sex\obj\Debug\sex.csproj.CoreCompileInputs.cache
+D:\is-22\Новая папка\sex\sex\obj\Debug\sex.exe
+D:\is-22\Новая папка\sex\sex\obj\Debug\sex.pdb
