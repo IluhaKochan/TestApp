@@ -15,11 +15,18 @@ namespace sex
         public Form1()
         {
             InitializeComponent();
+            button3.Visible= false;
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
+            textBox1.Text = "Хотите выйти?";
+            button3.Visible = true;
+        }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
